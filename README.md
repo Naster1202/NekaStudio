@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - ✔ All files are provided for informational purposes only, were taken from public access as they are.
 -  The author is not responsible for this. Run all files on your own. ✔
-<! ---
-Naster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  
+- Все файлы представлены лишь в ознакомительных целях, были взяты с откритого доступа как есть.
+-  Автор не несёт ответственость за это. Все файлы запускать на свою ответсвеность
+
